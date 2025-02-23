@@ -78,7 +78,7 @@ arr = [val for val in range(5)]
 
     <image src="https://github.com/user-attachments/assets/87a2d26b-7298-4193-8977-330aaeaf0947" width="450px"></image>
 
-#### ④ 배열 중간간에 삽입
+#### ④ 배열 중간에 삽입
 - 배열의 중간에 삽입하는 경우, **삽입 위치 이후의 데이터들을 뒤로 한 칸씩 밀어야 함.**
 - 삽입 위치 이후의 데이터의 수를 N개로 가정한다면, 시간 복잡도는 `O(N)` 이 됨.
 
