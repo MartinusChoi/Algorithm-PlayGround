@@ -10,7 +10,13 @@
 📦 Data_Structure
 ├── 📁 array              # 배열 (Array)
 │   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
+│   ├── 📝 practice_1.py  # 연습 문제
+│   ├── 📝 practice_2.py  # 연습 문제
+│   ├── 📝 practice_3.py  # 연습 문제
+│   ├── 📝 practice_4.py  # 연습 문제
+│   ├── 📝 practice_5.py  # 연습 문제
+│   ├── 📝 practice_6.py  # 연습 문제
+│   ├── 📝 practice_7.py  # 연습 문제
 │
 ├── 📁 stack              # 스택 (Stack)
 │   ├── 📄 concept.md     # 개념 정리
