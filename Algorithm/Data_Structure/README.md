@@ -1,6 +1,8 @@
 # 📚 Data Structure
 
-자료구조(Data Structure)를 공부하고 연습합니다. 각 자료구조별로 개념을 정리하고, Python을 활용하여 연습문제를 해결하는 방식으로 구성됩니다.
+자료구조(Data Structure)를 공부하고 연습합니다. 
+
+각 자료구조별로 개념을 정리하고, Python을 활용하여 연습문제를 해결하는 방식으로 구성됩니다.
 
 ---
 
@@ -9,34 +11,16 @@
 ```
 📦 Data_Structure
 ├── 📁 array              # 배열 (Array)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice_1.py  # 연습 문제
-│   ├── 📝 practice_2.py  # 연습 문제
-│   ├── 📝 practice_3.py  # 연습 문제
-│   ├── 📝 practice_4.py  # 연습 문제
-│   ├── 📝 practice_5.py  # 연습 문제
-│   ├── 📝 practice_6.py  # 연습 문제
-│   ├── 📝 practice_7.py  # 연습 문제
-│
+│                         
 ├── 📁 stack              # 스택 (Stack)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
 │
 ├── 📁 queue              # 큐 (Queue)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
 │
 ├── 📁 hash               # 해시 (Hash)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
 │
 ├── 📁 tree               # 트리 (Tree)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
 │
 ├── 📁 set                # 집합 (Set)
-│   ├── 📄 concept.md     # 개념 정리
-│   ├── 📝 practice.py    # 연습 문제
 │
 └── 📜 README.md
 ```
@@ -48,11 +32,11 @@
 
 | 자료구조 | 설명 |
 |----------|------------------------------------------------|
-| 📌 **배열 (Array)** | 배열의 개념과 특징, Python에서 배열(list) 다루기 |
-| 📌 **스택 (Stack)** | LIFO 구조, Python에서 스택 구현 |
-| 📌 **큐 (Queue)** | FIFO 구조, Python에서 큐 구현 |
-| 📌 **해시 (Hash)** | 해시 테이블 개념, 충돌 해결 방법, Python에서 해시(dict) 활용 |
-| 📌 **트리 (Tree)** | 트리 구조, 이진트리 및 이진 탐색 트리 개념, Python 구현 |
+| 📌 **[배열 (Array)](./array/README.md)** | 배열의 개념과 특징, Python에서 배열(list) 다루기 |
+| 📌 **[스택 (Stack)](./stack/README.md)** | LIFO 구조, Python에서 스택 구현 |
+| 📌 **[큐 (Queue)](./queue/README.md)** | FIFO 구조, Python에서 큐 구현 |
+| 📌 **[해시 (Hash)](./hash/README.md)** | 해시 테이블 개념, 충돌 해결 방법, Python에서 해시(dict) 활용 |
+| 📌 **[트리 (Tree)](./tree/README.md)** | 트리 구조, 이진트리 및 이진 탐색 트리 개념, Python 구현 |
 | 📌 **집합 (Set)** | 집합의 개념 및 활용, Python의 set 자료구조 |
 
 ---

@@ -1,12 +1,11 @@
 # 📝 Algorithm & Coding Test Study in Python
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/MartinusChoi/Algorithm-PlayGround)
-![GitHub stars](https://img.shields.io/github/stars/MartinusChoi/Algorithm-PlayGround?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MartinusChoi/Algorithm-PlayGround?style=social)
 
 ## 📌 소개
-이 리포지토리는 **알고리즘 및 코딩 테스트 준비**를 위한 Python 코드 및 학습 자료를 포함하고 있습니다.  
-다양한 문제를 해결하고, 최적화된 코드를 작성하며, CS 개념을 복습하는 데 도움을 줄 수 있습니다.
+Python을 기반으로 한 **알고리즘 및 코딩 테스트 준비** 저장소 입니다.
+
+다양한 문제를 해결하고, 자료구조와 알고리즘과 같은 CS 개념을 복습합니다.
 
 ## 📂 폴더 구조
 ```
@@ -41,18 +40,11 @@
 
 ## 🛠 환경 설정
 - Python 3.11 이상
-- 필수 라이브러리 설치 (필요시)
-```bash
-pip install -r requirements.txt
-```
 
 ## 📢 문제 풀이 방식
 문제 풀이 코드의 기본 템플릿은 다음과 같습니다.
 
 ```python
-# 문제 출처 : (예: BOJ 1000번 - A+B)
-# 문제 링크 : https://www.acmicpc.net/problem/1000
-
 def solution():
     a, b = map(int, input().split())
     print(a + b)
