@@ -16,6 +16,7 @@
 ├── 📝 practice_2_1.py  # 이진 탐색 트리 구현
 ├── 📝 practice_2_2.py  # 이진 탐색 트리 구현
 ├── 📝 practice_3.py    # 예상 대진표
+├── 📝 practice_4.py    # 다단계 칫솔 판매
 │
 └── 📜 README.md
 ```
@@ -37,3 +38,10 @@
 | URL | [Programmers](http://school.programmers.co.kr/learn/courses/30/lessons/12985)
 | 소스코드 | [source](practice_3.py)
 
+### 4. 다단계 칫솔 판매
+
+| 구분 | 내용 |
+|:--:|:--:|
+| 출처 | 2021 Dev-Maatching:웹 백엔드 개발자(상반기) |
+| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
+| 소스코드 | [source](practice_4.py)
