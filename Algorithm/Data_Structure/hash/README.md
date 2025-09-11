@@ -32,51 +32,12 @@
 
 온라인상 문제 URL이 존재하는 문제의 정보만 정리합니다.
 
-### 3. 완주하지 못한 선수
+| 문제 번호 | 문제 이름 |     출처     |           URL           |    소스코드    |
+| :-----: | :-----: | :---------: | :--------------------: | :----------: |
+| 3 | 완주하지 못한 선수 | 해시 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [source](practice_3.py) |
+| 4 | 할인 행사 | 연습문제 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [source](practice_4.py) |
+| 5 | 오픈 채팅방 | 2019 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | [source](practice_5.py) |
+| 6 | 베스트 앨범 | 해시 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [source](practice_6.py) |
+| 7 | 신고 결과 받기 | 2022 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/92334) | [source](practice_7.py) |
+| 8 | 메뉴 리뉴얼 | 2021 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/72411) | [source](practice_8.py) |
 
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 해시 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
-| 소스코드 | [source](practice_3.py)
-
-
-### 4. 할인 행사
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 연습문제 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/131127)
-| 소스코드 | [source](practice_4.py)
-
-### 5. 오픈 채팅방
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2019 KAKAO BLIND RECRUITMENT |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
-| 소스코드 | [source](practice_5.py)
-
-### 6. 베스트 앨범
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 해시 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
-| 소스코드 | [source](practice_6.py)
-
-### 7. 신고 결과 받기
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2022 KAKAO BLIND RECRUITMENT |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
-| 소스코드 | [source](practice_7.py)
-
-### 8. 메뉴 리뉴얼
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2021 KAKAO BLIND RECRUITMENT |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
-| 소스코드 | [source](practice_8.py)

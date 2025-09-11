@@ -28,20 +28,7 @@
 
 온라인상 문제 URL이 존재하는 문제의 정보만 정리합니다.
 
-### 2. 기능 개발
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 스택/큐 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-| 소스코드 1 | [source](practice_2_1.py) |
-| 소스코드 2 | [source](practice_2_2.py) |
-
-
-### 3. 카드 뭉치
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 연습 문제 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
-| 소스코드 | [source](practice_3.py)
+| 문제 번호 | 문제 이름 |     출처     |           URL           |    소스코드    |
+| :-----: | :-----: | :---------: | :--------------------: | :----------: |
+| 2 | 기능 개발 | 스택/큐 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [source](practice_2_1.py) , [source](practice_2_2.py) |
+| 3 | 카드 뭉치 | 연습 문제 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/159994) | [source](practice_3.py) |

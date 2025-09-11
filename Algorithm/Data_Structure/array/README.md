@@ -31,43 +31,11 @@
 
 온라인상 문제 URL이 존재하는 문제의 정보만 정리합니다.
 
-### 3. 두 개 뽑아서 더하기
+| 문제 번호 | 문제 이름 |     출처     |           URL           |    소스코드    |
+| :-----: | :-----: | :---------: | :--------------------: | :----------: |
+| 3 | 두 개 뽑아서 더하기 | 월간 코드 챌린지 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [source](practice_3.py) |
+| 4 | 모의고사 | 완전 탐색 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [source](practice_4.py) |
+| 5 | 행렬의 곱샘 | 연습 문제 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12949) | [source](practice_5.py) |
+| 6 | 실패율 | 2019 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [source](practice_6.py) |
+| 7 | 방문 길이 | Summer/Winter Coding(~2018) | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/49994) | [source](practice_7.py) |
 
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 월간 코드 챌린지 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/68644)
-| 소스코드 | [source](practice_3.py)
-
-
-### 4. 모의고사
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 완전 탐색 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-| 소스코드 | [source](practice_4.py)
-
-### 5. 행렬의 곱샘
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 연습 문제 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/12949)
-| 소스코드 | [source](practice_5.py)
-
-### 6. 실패율
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2019 KAKAO BLIND RECRUITMENT |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
-| 소스코드 | [source](practice_6.py)
-
-### 7. 방문 길이
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | Summer/Winter Coding(~2018) |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
-| 소스코드 | [source](practice_7.py)
