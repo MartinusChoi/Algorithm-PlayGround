@@ -19,6 +19,7 @@
 ├── 📝 practice_4.py    # 다단계 칫솔 판매
 ├── 📝 practice_5.py    # 미로 탈출
 ├── 📝 practice_6.py    # 양과 늑대
+├── 📝 practice_7.py    # 길 찾기 게임
 │
 └── 📜 README.md
 ```
@@ -38,3 +39,4 @@
 | 4 | 다단계 칫솔 판매 | 2021 Dev-Maatching:웹 백엔드 개발자(상반기) | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | [source](practice_4.py) |
 | 5 | 미로 탈출 | 연습 문제 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [source](practice_5.py) |
 | 6 | 양과 늑대 | 2022 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [source](practice_6.py) |
+| 6 | 길 찾기 게임 | 2019 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/42892) | [source](practice_7.py) |
