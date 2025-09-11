@@ -18,6 +18,7 @@
 ├── 📝 practice_3.py    # 예상 대진표
 ├── 📝 practice_4.py    # 다단계 칫솔 판매
 ├── 📝 practice_5.py    # 미로 탈출
+├── 📝 practice_6.py    # 양과 늑대
 │
 └── 📜 README.md
 ```
@@ -31,26 +32,9 @@
 
 온라인상 문제 URL이 존재하는 문제의 정보만 정리합니다.
 
-### 3. 예상 대진표
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2017 팁스타운 |
-| URL | [Programmers](http://school.programmers.co.kr/learn/courses/30/lessons/12985)
-| 소스코드 | [source](practice_3.py)
-
-### 4. 다단계 칫솔 판매
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 2021 Dev-Maatching:웹 백엔드 개발자(상반기) |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/77486)
-| 소스코드 | [source](practice_4.py)
-
-### 5. 미로 탈출
-
-| 구분 | 내용 |
-|:--:|:--:|
-| 출처 | 연습 문제 |
-| URL | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
-| 소스코드 | [source](practice_5.py)
+| 문제 번호 |     출처     |           URL           |    소스코드    |
+| :-----: | :---------: | :--------------------: | :----------: |
+| 3 | 2017 팁스타운 | [Programmers](http://school.programmers.co.kr/learn/courses/30/lessons/12985) | [source](practice_3.py) |
+| 4 | 2021 Dev-Maatching:웹 백엔드 개발자(상반기) | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/77486) | [source](practice_4.py) |
+| 5 | 연습 문제 | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [source](practice_5.py) |
+| 6 | 2022 KAKAO BLIND RECRUITMENT | [Programmers](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | [source](practice_6.py) |
