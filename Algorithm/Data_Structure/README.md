@@ -22,6 +22,8 @@
 │
 ├── 📁 set                # 집합 (Set)
 │
+├── 📁 Graph              # 그래프 (Graph)
+│
 └── 📜 README.md
 ```
 
@@ -37,7 +39,8 @@
 | 📌 **[큐 (Queue)](./queue/README.md)** | FIFO 구조, Python에서 큐 구현 |
 | 📌 **[해시 (Hash)](./hash/README.md)** | 해시 테이블 개념, 충돌 해결 방법, Python에서 해시(dict) 활용 |
 | 📌 **[트리 (Tree)](./tree/README.md)** | 트리 구조, 이진트리 및 이진 탐색 트리 개념, Python 구현 |
-| 📌 **집합 (Set)** | 집합의 개념 및 활용, Python의 set 자료구조 |
+| 📌 **[집합 (Set)](./set/README.md)** | 집합의 개념 및 활용, 상호배타적 집합의 활용 |
+| 📌 **그래프 (Graph)** | 그래프 자료구조의 개념 및 활용 |
 
 ---
 
