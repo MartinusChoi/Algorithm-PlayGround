@@ -12,6 +12,8 @@
 📁 set
 ├── 📄 concept.md       # 개념 정리
 ├── 📄 practice_1.py    # 간단한 유니온-파인드 알고리즘 구현하기
+├── 📄 practice_2.py    # 폰켓몬
+├── 📄 practice_3.py    # 영어 끝말잇기
 │
 └── 📜 README.md
 ```
@@ -27,3 +29,5 @@
 
 | 문제 번호 | 문제 이름 |     출처     |           URL           |    소스코드    |
 | :-----: | :-----: | :---------: | :--------------------: | :----------: |
+| 2 | 폰켓몬 | 해시 | [Pragrammers](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [source](practice_2.py) |
+| 3 | 영어 끝말잇기 | Summer/Winter Coding(~2018) | [Pragrammers](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [source](practice_3.py) |
