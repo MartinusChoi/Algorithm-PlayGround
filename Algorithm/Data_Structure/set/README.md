@@ -11,6 +11,7 @@
 ```
 📁 set
 ├── 📄 concept.md       # 개념 정리
+├── 📄 practice_1.py    # 간단한 유니온-파인드 알고리즘 구현하기
 │
 └── 📜 README.md
 ```
