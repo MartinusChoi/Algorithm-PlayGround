@@ -14,6 +14,7 @@
 ├── 📄 practice_1.py    # 간단한 유니온-파인드 알고리즘 구현하기
 ├── 📄 practice_2.py    # 폰켓몬
 ├── 📄 practice_3.py    # 영어 끝말잇기
+├── 📄 practice_4.py    # 전화번호 목록
 │
 └── 📜 README.md
 ```
@@ -31,3 +32,4 @@
 | :-----: | :-----: | :---------: | :--------------------: | :----------: |
 | 2 | 폰켓몬 | 해시 | [Pragrammers](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [source](practice_2.py) |
 | 3 | 영어 끝말잇기 | Summer/Winter Coding(~2018) | [Pragrammers](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [source](practice_3.py) |
+| 4 | 전화번호 목록 | 해시 | [Pragrammers](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [source](practice_4.py) |
